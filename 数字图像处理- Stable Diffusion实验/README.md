@@ -1,4 +1,4 @@
-[TOC]
+
 
 ## 一、实验要求
 
@@ -485,14 +485,7 @@ Stable Diffusion v1 使用 Open AI 的 [ViT-L/14](https://link.zhihu.com/?target
 
 - 可以看到加载不同风格的模型时，即使输入相同的prompts，输出的结果差异仍然是巨大的。
 
-## 五、贡献占比
-
-|  姓名  |   学号   |                  负责内容                  | 贡献占比 |
-| :----: | :------: | :----------------------------------------: | :------: |
-|  韩熔  | 20301036 | 实验报告撰写、实验原理、实验内容、模型部署 |   60%    |
-| 陈增耀 | 20301034 |        模型修改，bug调试 ，参数调整        |   40%    |
-
-## 六、总结与心得
+## 五、总结与心得
 
 ### 运行webui-user.bat时
 
@@ -514,7 +507,7 @@ Stable Diffusion v1 使用 Open AI 的 [ViT-L/14](https://link.zhihu.com/?target
 
 >  还遇到了超时无法下载的问题，只好将相应的GitHub仓库手动下载放在对应的文件夹中。
 
-## 七、参考资料
+## 六、参考资料
 
 -  [AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (github.com)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
